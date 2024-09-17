@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="myName">Gerardo Camorlinga Jr</string>
+    <string name="jobTitle">Software Engineer</string>
+</resources>
